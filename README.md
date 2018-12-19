@@ -1,4 +1,4 @@
-# Emotion_Recognition--Neural-Networks::[68.68% Validation Accuracy]
+# Emotion_Recognition based on Convolution-Neural-Networks
 Human facial expressions can be easily classified into 7 basic emotions: happy, sad, surprise, fear, anger, disgust, and neutral. Our facial emotions are expressed through activation of specific sets of facial muscles.
 * The aim is to classify the emotion on a person's face into one of **seven categories**, using deep convolution neural networks.
 * The algorithm is based on the type of database used inorder to get maximum validation accuracy. Further changes in algorithm may be required according to the database used.
@@ -39,6 +39,3 @@ Human facial expressions can be easily classified into 7 basic emotions: happy, 
   <img src='Images/accuracy.png'  width='1000px'>
   </div>
 * Accuracy Score: 68.68%
-# Application in Action
-* To see the application in action, by using pretrained JSON model, run the code [App_Interface](https://github.com/shreyashk09/Emotion-Recognition---Neural-Networks/blob/master/Interface.py)
-* To train the model using the database and see the results in step by step, run the code blocks in the [Emotion Recognition - Neural Networks-part2.ipynb](https://github.com/shreyashk09/Emotion-Recognition---Neural-Networks)
